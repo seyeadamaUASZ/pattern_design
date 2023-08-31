@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f8335aaf-abeb-4372-89c5-3a453f450b8a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/9/19a1a15eeb4bd53eb346886501b0559c07ffd36a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1b48bd935cce3085ce3a73d6900ea2fd96c272b6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/5230eb035e59a43a76c32539d70b603d7ca7f79f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/b/5b5df5c667f0e5ed6a20bc0e7fd0afdf31b8659d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/b/5ba72b67112be61edf6de3ad467d650b2575c2e7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/81865cc7d3770035cc526dbbb98ebf9e3d1da0a1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/8514735ed5d2206a29f6a007e9c9aeee9f2d3fb6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/6/86a43cab338e17d9451ffc9839065c5253eebc6e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/1/913c51a1eff99e03a89806d3084990c988974df9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a98f7d9eb6015c25406c34541ae097e45d131af2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/f/bf79a880225ad401e263520710ecbb97ffb3492f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c62798a43e6b22dcb61b6e26958739355971ee9c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/e/ce2e3541a38887af8677f3783567b3254871c7c9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/daa0caf4562b83ada76be362be49d732895240d9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/eb3b419dc4f4fa944573403bba56e746cb2d5270" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/f/ef5d61975f1bab248ef642ae9a7523c3abe360b5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/d/fd0196591dbf9fc12fc39efe3a7979aec3f85c46" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/9/19a1a15eeb4bd53eb346886501b0559c07ffd36a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/b/1b48bd935cce3085ce3a73d6900ea2fd96c272b6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/2/5230eb035e59a43a76c32539d70b603d7ca7f79f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/b/5b5df5c667f0e5ed6a20bc0e7fd0afdf31b8659d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/b/5ba72b67112be61edf6de3ad467d650b2575c2e7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/1/81865cc7d3770035cc526dbbb98ebf9e3d1da0a1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/5/8514735ed5d2206a29f6a007e9c9aeee9f2d3fb6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/6/86a43cab338e17d9451ffc9839065c5253eebc6e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/1/913c51a1eff99e03a89806d3084990c988974df9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/9/a98f7d9eb6015c25406c34541ae097e45d131af2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/f/bf79a880225ad401e263520710ecbb97ffb3492f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/6/c62798a43e6b22dcb61b6e26958739355971ee9c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/e/ce2e3541a38887af8677f3783567b3254871c7c9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/a/daa0caf4562b83ada76be362be49d732895240d9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/b/eb3b419dc4f4fa944573403bba56e746cb2d5270" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/f/ef5d61975f1bab248ef642ae9a7523c3abe360b5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/d/fd0196591dbf9fc12fc39efe3a7979aec3f85c46" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern_design.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/Facade/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/Facade/Notification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/Facade/NotificationEmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/Facade/NotificationFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/Facade/NotificationSms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/Strategy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/Strategy/PayPalPaymentStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/Strategy/PaymentCardStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/Strategy/PaymentContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/Strategy/PaymentStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/abstractfactory/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/abstractfactory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/abstractfactory/ProducerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/abstractfactory/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/abstractfactory/RoundRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/abstractfactory/RoundShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/abstractfactory/RoundSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/abstractfactory/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/abstractfactory/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/abstractfactory/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/adapter/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/builder/BuildingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/builder/Cake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/composite/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/composite/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/composite/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/composite/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/decorator/CheeseDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/decorator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/decorator/SandWitchDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/decorator/Sandwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/decorator/WhiteBreadSandWitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/decorator/XtraCheeseDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/decorator2/IceScream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/decorator2/IceScreamDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/decorator2/MirtilleScreamDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/decorator2/NuttyIceScreamDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/decorator2/SimpleIceScream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/decorator2/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/factory/CountryCFA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/factory/CountryDollar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/factory/CountryPesos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/factory/Currency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/factory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/observers/Internet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/observers/Loan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/observers/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/observers/NewsPaper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/observers/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sid/gl/observers/Subject.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2UdSvB87KWKQfQGhxeREJ2d2C9T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.com.sid.gl.observers.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sid.gl.composite.Main" />
+      <module name="pattern_design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sid.gl.composite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sid.gl.adapter.Test" />
+      <module name="pattern_design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sid.gl.adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.sid.gl.Facade.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sid.gl.Facade.Main" />
+      <module name="pattern_design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sid.gl.Facade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.sid.gl.Strategy.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sid.gl.Strategy.Main" />
+      <module name="pattern_design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sid.gl.Strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.sid.gl.observers.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sid.gl.observers.Main" />
+      <module name="pattern_design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sid.gl.observers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.sid.gl.observers.Main" />
+        <item itemvalue="Application.com.sid.gl.Strategy.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.com.sid.gl.Facade.Main" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8335aaf-abeb-4372-89c5-3a453f450b8a" name="Changes" comment="" />
+      <created>1693268194760</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693268194760</updated>
+      <workItem from="1693268199643" duration="12000" />
+      <workItem from="1693269021624" duration="5807000" />
+      <workItem from="1693398554794" duration="11551000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
